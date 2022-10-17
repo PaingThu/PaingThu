@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Maw Paing Thu.
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning react native.
 
 <!---
 PaingThu/PaingThu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
